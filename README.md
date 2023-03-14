@@ -1,9 +1,10 @@
 # Eu sou Wesley T. Benette
-  - Atualmente curso o 2º semestre da faculdade de "Análise e Desenvolvimento de Sistemas" - (2 de 4 Semestres)
-  - Tenho um curso técnico de "Técnico em Informática para Internet" integrado ao Ensino Médio - (3 anos)
+  - 🪲 Atualmente curso o 2º semestre da faculdade de "Análise e Desenvolvimento de Sistemas" - (2 de 4 Semestres)
+  - 🖥️ Tenho um curso técnico de "Técnico em Informática para Internet" integrado ao Ensino Médio - (3 anos)
+  - 🎯 Meu foco atual: ingressar no mercado do trabalho como programador
 
 # Habilidades
-  -  ☕ Java - Intermediário - (1 ano e meio)
+  - ☕ Java - Intermediário - (1 ano e meio)
   - 🐍 Python Básico - Sem bibliotecas e frameworks - (2 meses)
   - 🤓 C/C# - Conhecimento acadêmico - (6 meses/1 mês)
   - 🪄 HTML e CSS - Básico do Básico - (1 ano)
