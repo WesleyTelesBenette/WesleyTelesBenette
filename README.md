@@ -1,6 +1,6 @@
 # Eu sou Wesley T. Benette
   - 🪲 Atualmente curso o 2º semestre da faculdade de "Análise e Desenvolvimento de Sistemas" - (2 de 4 Semestres)
-  - 🖥️ Tenho um curso técnico de "Técnico em Informática para Internet" integrado ao Ensino Médio - (3 anos)
+  - 🖥️ Fiz um curso técnico de "Técnico em Informática para Internet" integrado ao Ensino Médio (Etec) - (3 anos)
   - 🎯 Meu foco atual: ingressar no mercado do trabalho como programador
 
 # Habilidades
