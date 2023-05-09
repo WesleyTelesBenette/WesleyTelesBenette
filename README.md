@@ -1,17 +1,21 @@
-# Eu sou Wesley T. Benette
-  - 🪲 Atualmente curso o 2º semestre da faculdade de "Análise e Desenvolvimento de Sistemas" - (2 de 4 Semestres)
-  - 🖥️ Fiz um curso técnico de "Técnico em Informática para Internet" integrado ao Ensino Médio (Etec) - (3 anos)
-  - 🎯 Meu foco atual: ingressar no mercado do trabalho como programador
+## Olá, me chamo Wesley T. Benette
+Sou um desenvolvedor de Software em processo de construção profissional, tendo 4 anos de experiencia não comercial na área.
+No momento estou focando meus esforços em estudar Java e no geral o ambiente web, tanto front como back, além de me aventurar nas diversas áreas da tecnologia.
+Recentemente adquiri o acesso aos cursos Alura, então meus estudos complementares estão sujeitos a mudanças...
 
-# Habilidades
-  - ☕ Java - Intermediário - (1 ano e meio)
-  - 🐍 Python Básico - Sem bibliotecas e frameworks - (2 meses)
-  - 🤓 C/C# - Conhecimento acadêmico - (6 meses/1 mês)
-  - 🪄 HTML e CSS - Básico do Básico - (1 ano)
+## Minha formação:
+- [cursando] 2º Semestre em Análise e Desenvolvimento de Sistemas (UNIP)
+- [completo] Curso Técnico em Informática para Internet (Etec - Francisco Morato)
 
-# Um pouco sobre mim
-Tenho 4 anos de experiência com programação, embora nunca tenha ocupado nenhum cargo.
+## Habilidades:
+- Java ☕ - Intermediário – Sintaxe, POO, consumo de API e Canvas
+- Python 🐍 – Básico – Sintaxe e POO
+- C ⚙ – Intermediário – Sintaxe
+- C# 🖥 - Básico – Sintaxe e POO (Conhecimento acadêmico)
+- HTML e CSS ✨ - Básico
 
-Me dediquei por 2 anos e meio ao desenvolvimento de jogos com o "GameMaker Studio: 2" e a praticar Batch Script (.bat) no meu tempo livre.
+## Estudos complementares (mais relevantes):
+- Alura -  Formação Aprenda Java com Orientação a Objetos (37hrs)
 
-Atualmente faço "Análise e Desenvolvimento de Sistema" na UNIP (Avenida Paulista), e complementarmente estudo e me desenvolvo em Java, com a esperança de conseguir minha primeira vaga e adentrar a esse mundo vasto de conhecimento interminável que é a programação.
+## Contato:
+- wesleytbenette@gmail.com
