@@ -4,15 +4,14 @@ Apartir daí refinei minha lógica de programação com desenvolvimento de jogos
 Atualmente me encontro estudando React Native e ASP.NET, por conta, esperando ansiosamente por uma oportunidade em que eu possa me desenvolver como profissional e desbravar este mundo mágico que é a programação.
 
 ## Tecnologias:
-- C#
-- Javascript
-- Java
 - C
+- C#
+- Java
+- Python
 - HTML
 - CSS
-- Python
+- Javascript
 - PHP
-
 
 ## Frameworks:
 - React Native.
