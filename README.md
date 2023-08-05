@@ -19,11 +19,11 @@ Atualmente me encontro estudando React Native e ASP.NET, por conta, esperando an
 - React Native.
 
 ## Minha Formação Acadêmica:
-- (cursando) = 2° Semestre em Análise e Desenvolvimento de Sistemas (UNIP);
-- (completo) = Curso Técnico em Informática para Internet (Etec - Francisco Morato);
+- (cursando) - 2° Semestre em Análise e Desenvolvimento de Sistemas (UNIP);
+- (completo) - Curso Técnico em Informática para Internet (Etec - Francisco Morato);
 
 ## Estudos complementares (mais relevantes):
-- (37hrs) = Alura - Formação Aprenda Java com Orientação a Objetos;
+- (37hrs) - Formação Aprenda Java com Orientação a Objetos (Alura);
 
 ## Contato:
 - wesleytbenette@gmail.com
