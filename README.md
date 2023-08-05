@@ -4,16 +4,17 @@ Apartir daí refinei minha lógica de programação com desenvolvimento de jogos
 Atualmente me encontro estudando React Native e ASP.NET, por conta, esperando ansiosamente por uma oportunidade em que eu possa me desenvolver como profissional e desbravar este mundo mágico que é a programação.
 
 ## Habilidades:
-- ('C#')           = Intermediário – POO e comsumo de API;
+- ( 'C#' )           = Intermediário – POO e comsumo de API;
 - ('Javascript')   = Intermediário - POO e consumo de API;
 - ('Java')         = Intermediário – POO e consumo de API;
 - ('C')            = Intermediário – Sintaxe e Progamação Estruturada;
-- ('HTML' + 'CSS') = Intermediário - Principais Tags, Tags Semânticas, Flexbox, Grid;
+-
+ ('HTML' + 'CSS') = Intermediário - Principais Tags, Tags Semânticas, Flexbox, Grid;
 - ('Python')       = Básico – Sintaxe;
 - ('PHP')          = Básico - Sintaxe;
 - ('Dart')         = Básico - Sintaxe;
 
-##Linguagens de Programação:
+## Linguagens de Programação:
 - C
 - C#
 - Java
@@ -21,7 +22,7 @@ Atualmente me encontro estudando React Native e ASP.NET, por conta, esperando an
 - Php
 - Python
 
-##Frameworks:
+## Frameworks:
 - React Native.
 
 ## Minha Formação Acadêmica:
