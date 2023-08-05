@@ -12,8 +12,7 @@ Atualmente me encontro estudando React Native e ASP.NET, por conta, esperando an
 - Python
 - HTML
 - CSS
--
- Javascript
+- Javascript
 
 ## Frameworks:
 - React Native.
