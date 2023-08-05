@@ -3,4 +3,4 @@
 🎯 Tenho o sonho de criar algo grandioso, ou de alguma forma relevante para muitas pessoas.
 ⏳ Aplico assíduamente meu tempo em estudar o que eu gosto.
 
-![Meu status github](https://github-readme-stats.vercel.app/api?username=WesleyTelesBenette)
+![Meu status github](https://github-readme-stats.vercel.app/api?username=WesleyTelesBenette&show_icons=true&theme=radical)
