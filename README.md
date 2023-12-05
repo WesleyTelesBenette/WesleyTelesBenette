@@ -11,7 +11,7 @@
 > 
 <br/><br/>
 
-<section style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+<p style="display: flex; flex-direction: row; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark"/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -29,4 +29,4 @@
   <p>
     dgfgfghgghfgjhj
   </p>
-</section>
+</p>
