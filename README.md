@@ -11,7 +11,7 @@
 > 
 <br/><br/>
 
-<div style="display: flex; flex-direction: column; flex-wrap: nowrap;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark"/>
   <p align="center">
     <a href="https://skillicons.dev">
