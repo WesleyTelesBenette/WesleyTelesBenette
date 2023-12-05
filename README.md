@@ -11,18 +11,19 @@
 > 
 <br/><br/>
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cs,php" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,postman" />
-  </a>
-</p>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark"/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,cs,php" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,postman" />
+    </a>
+  </p>
+</div>
