@@ -10,7 +10,7 @@
 
 <p align="center">
         <a>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=pie&theme=github_dark&hide_border=true&locale=pt-br"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=pie&theme=github_dark&hide_border=true&locale=pt-br&hide_progress=true"/>
         </a>
         <a>
             <img src="https://streak-stats.demolab.com?user=WesleyTelesBenette&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CWed&card_width=500"/>
