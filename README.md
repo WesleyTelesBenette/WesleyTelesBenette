@@ -9,4 +9,4 @@
 > \- Confúcio.
 
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyTelesBenette&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=WesleyTelesBenette&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=WesleyTelesBenette&theme=dark&border=true)
