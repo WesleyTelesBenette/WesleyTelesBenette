@@ -11,12 +11,15 @@
 > 
 <br/><br/>
 
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark"/>
+<p">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark"/>
+  </a>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css" />
     </a>
+    <br/>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,cs,php" />
     </a>
