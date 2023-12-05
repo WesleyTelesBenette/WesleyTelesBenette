@@ -7,4 +7,4 @@
 >
 > Confúcio.
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut&theme=midnight-purple)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=midnight-purple)
