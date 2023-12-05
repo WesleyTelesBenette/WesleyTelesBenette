@@ -1,18 +1,7 @@
 ⚙️ Sou um desenvolvedor **Fullstack** (React.js, Node, ASP.NET e Laravel) ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.
-<br/><br/>
-<p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css" />
-    </a>
-    <br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,cs,php" />
-    </a>
-    <br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,dotnet,laravel,postman" />
-    </a>
-  </p>
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,php,nodejs,dotnet,laravel,postman)](https://skillicons.dev)
+
 <br/><br/>
 ⏳ Aplico assiduamente meu tempo em estudar e me desenvolver na programação.
 <br/><br/>
@@ -22,4 +11,4 @@
 > Confúcio.
 > 
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark)
