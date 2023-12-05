@@ -8,7 +8,7 @@
 > "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida." <br/><br/>
 > \- Confúcio.
 
-<p align="center">
+<p align="center" valign="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=pie&theme=github_dark&hide_border=true&locale=pt-br"/>
   </a>
