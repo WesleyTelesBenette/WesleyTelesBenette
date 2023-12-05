@@ -8,7 +8,5 @@
 > "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida."
 >
 > Confúcio.
-
-
->
+<br/><br/>
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark)
