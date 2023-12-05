@@ -5,7 +5,7 @@
 ⏳ Aplico assiduamente meu tempo em estudar e me desenvolver na programação.
 <br/><br/>
 💼 No momento estou em busca de conquistar minha primeira oportunidade na área, em virtude de fazer jus à famosa frase do meu filósofo favorito:
-> "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida." <br/><br/>
+> "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida." <br/>
 > \- Confúcio.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
