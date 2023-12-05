@@ -1,4 +1,5 @@
 ⚙️ Sou um desenvolvedor **Fullstack** (React.js, Node, ASP.NET e Laravel) ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,php,nodejs,dotnet,laravel,postman)](https://skillicons.dev)
 <br/>
 ⏳ Aplico assiduamente meu tempo em estudar e me desenvolver na programação.
