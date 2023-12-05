@@ -6,5 +6,6 @@
 > "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida."
 >
 > Confúcio.
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,php,node,dotnet,laravel,postman)](https://skillicons.dev)
+> 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTelesBenette&layout=donut-vertical&theme=github_dark)
