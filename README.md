@@ -1,11 +1,15 @@
 # Eu sou Wesley T. Benette.
-⚙️ Sou um desenvolvedor **Backend** (Node e ASP.NET) e Analista de Sistemas, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.
-<br/><br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,c,java,php,nodejs,dotnet,postgresql,postman,git)](https://skillicons.dev)
-<br/><br/>
-⏳ Aplico assiduamente meu tempo em estudar e me desenvolver na programação.
-<br/><br/>
-💼 No momento estou em busca de conquistar minha primeira oportunidade na área, em virtude de fazer jus à famosa frase do meu filósofo favorito:
+Sou um Desenvolvedor **Backend** (SpringBoot, Node e ASP.NET) e Analista de Sistemas, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.
+
+Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial nas tecnologias abaixo:
+
+[![My Skills](https://skillicons.dev/icons?i=spring,java,bash,postman,git,postgresqlh)](https://skillicons.dev)
+
+Mas também já tive pequenos contatos com várias tecnologias:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,dotnet,cs,c,php,python)](https://skillicons.dev)
+
+No momento estou em busca de conquistar minha primeira oportunidade na área, em virtude de fazer jus à famosa frase do meu filósofo favorito:
 > "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida." <br/>
 > \- Confúcio.
 
