@@ -1,13 +1,13 @@
-# Eu sou Wesley T. Benette.
-Sou um Desenvolvedor **Backend** (SpringBoot, Node e ASP.NET) e Analista de Sistemas, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.
+# Eu sou Wesley T. Benette
+Sou um Desenvolvedor **Fullstack**, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.
 
 Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial nas tecnologias abaixo:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,spring,java,bash,postman,git,postgresqlh)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,nodejs,cs,dotnet,python,django,php,laravel,bash,postman,git)](https://skillicons.dev)
 
 Mas também já tive pequenos contatos com várias tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,dotnet,cs,c,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,dart,flutter)](https://skillicons.dev)
 
 No momento estou em busca de conquistar minha primeira oportunidade na área, em virtude de fazer jus à famosa frase do meu filósofo favorito:
 > "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida." <br/>
