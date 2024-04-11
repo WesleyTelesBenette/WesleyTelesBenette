@@ -2,13 +2,13 @@
 Sou um Desenvolvedor **Fullstack**, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.<br/>
 Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial em Angular, Laravel e ASP.NET:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,laravel,bash,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,laravel,postgresql,bash,postman,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,cs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,cs,php)](https://skillicons.dev)
 
 Mas também já tive contato com outras tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,dart,flutter,react,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,kotlin,dart,flutter,react,nodejs,python)](https://skillicons.dev)
 
 <br/>
 
