@@ -1,15 +1,18 @@
 # Eu sou Wesley T. Benette
-Sou um Desenvolvedor **Fullstack**, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.
+Sou um Desenvolvedor **Fullstack**, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.<br/>
+Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial em Angular, Laravel e ASP.NET:
 
-Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial nas tecnologias abaixo:
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,laravel,bash,postman,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,nodejs,cs,dotnet,python,django,php,laravel,bash,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,cs,php)](https://skillicons.dev)
 
-Mas também já tive pequenos contatos com várias tecnologias:
+Mas também já tive contato com outras tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,dart,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,dart,flutter,react,nodejs,python)](https://skillicons.dev)
 
-No momento estou em busca de conquistar minha primeira oportunidade na área, em virtude de fazer jus à famosa frase do meu filósofo favorito:
+<br/>
+
+Creio que estudar programação seja o meu jeito de fazer juz aos ensinamentos de Confúcio:
 > "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida." <br/>
 > \- Confúcio.
 
