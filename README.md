@@ -1,14 +1,14 @@
 # Eu sou Wesley T. Benette
 Sou um Desenvolvedor **Fullstack**, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.<br/>
-Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial em Angular, Laravel e ASP.NET:
+Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial em Angular e ASP.NET:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,laravel,postgresql,bash,postman,git,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,postgresql,bash,postman,git,notion)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,cs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,cs)](https://skillicons.dev)
 
 Mas também já tive contato com outras tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,kotlin,dart,flutter,react,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,kotlin,dart,flutter,react,nodejs,python,php)](https://skillicons.dev)
 
 <br/>
 
