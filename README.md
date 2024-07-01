@@ -12,7 +12,7 @@ Mas também já tive contato com outras tecnologias:
 
 <br/>
 
-Creio que estudar programação seja o meu jeito de fazer juz aos ensinamentos de Confúcio:
+Creio que a área de tecnologia seja o meu jeito de fazer juz à minha frase favorita:
 > "Escolhe um trabalho de que gostes, e não terás que trabalhar nem um dia na tua vida." <br/>
 > \- Confúcio.
 
