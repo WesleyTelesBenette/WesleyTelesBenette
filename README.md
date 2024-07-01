@@ -1,6 +1,6 @@
 # Eu sou Wesley T. Benette
 Sou um Desenvolvedor **Fullstack**, ligeiramente apaixonado por desenvolvimento de jogos 🎮, astronomia 🪐 e tecnologia no geral 🖥️.<br/>
-Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial em Angular e ASP.NET:
+Aplico assiduamente meu tempo em estudar e me desenvolver na programação, em especial na área **FullStack** com Angular.js e ASP.NET:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,dotnet,postgresql,bash,postman,git,notion)](https://skillicons.dev)
 
