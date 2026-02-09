@@ -1,6 +1,6 @@
 # I am Wesley T. Benette
 
-I'm a Software Engineer, slightly passionate about game development 🎮, astronomy 🪐, and technology in general 🖥️. I diligently dedicate my time to studying and developing my programming skills, especially in the Backend area with ASP.NET and Node.js.
+I'm a Software Engineer with a small passion for game development 🎮, astronomy 🪐, and technology in general 🖥️. I dedicate my time to studying and improving my programming skills, especially in developing general solutions with ASP.NET and React.js.
 
 I believe that the technology field is my way of living up to my favorite phrase:
 
