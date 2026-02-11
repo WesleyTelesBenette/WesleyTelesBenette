@@ -50,7 +50,7 @@ I believe that the technology field is my way of living up to my favorite phrase
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=WesleyTelesBenette&theme=darcula&hide_border=true&locale=en&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CWed&card_width=500&border_radius=20.0)](https://git.io/streak-stats)
 
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=WesleyTelesBenette&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+  <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=WesleyTelesBenette&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox) -->
 </div>
 
 
